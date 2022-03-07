@@ -2,3 +2,4 @@ main.txt
 main.txt edited
 main.txt edited after dev.txt edited
 main.txt edited in main
+main.txt edited in feature1
