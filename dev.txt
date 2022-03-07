@@ -1,2 +1,3 @@
 dev.txt
 dev.txt edited
+dev.txt edited in feature1
